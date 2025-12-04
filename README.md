@@ -1,23 +1,23 @@
-# 🌌 Algorithme de Recherche Gravitationnelle (GSA)
+# 🌌 Gravitational Search Algorithm (GSA)
 
-Ce projet implémente en **Python** l’Algorithme de Recherche Gravitationnelle (Gravitational Search Algorithm – GSA), une métaheuristique inspirée de la loi de la gravité et des masses.
+This project implements the **Gravitational Search Algorithm (GSA)** in Python, a metaheuristic inspired by the law of gravity and mass interactions.
 
 ## 📖 Description
-- Les agents représentent des solutions candidates avec une masse proportionnelle à leur qualité (fitness).
-- Les agents plus lourds attirent les plus légers par des forces gravitationnelles.
-- Au fil des itérations, les agents convergent vers la solution optimale.
+- Agents represent candidate solutions with a mass proportional to their quality (fitness).
+- Heavier agents attract lighter ones through gravitational forces.
+- Over iterations, agents converge toward the optimal solution.
 
-## ⚙️ Fonctionnalités
-- Implémentation orientée objet du GSA
-- Fonctions de benchmark : Sphere, Rastrigin
-- Visualisations :
-  - Courbe de convergence (fitness vs. itérations)
-  - Trajectoires des agents en 2D
-  - Distribution des masses
-  - Paysage de la fonction en 2D
+## ⚙️ Features
+- Object-oriented implementation of GSA
+- Benchmark functions: Sphere, Rastrigin
+- Visualizations:
+  - Convergence curve (fitness vs. iterations)
+  - Agent trajectories in 2D
+  - Mass distribution
+  - Function landscape in 2D
 
-## 🚀 Installation et exécution
-1. Cloner le dépôt :
+## 🚀 Installation and Execution
+1. Clone the repository:
 ```bash
 git clone https://github.com/Ranim638515/Algorithme-de-recherche-gravitationnelle.git
 cd Algorithme-de-recherche-gravitationnelle
