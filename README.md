@@ -21,3 +21,4 @@ This project implements the **Gravitational Search Algorithm (GSA)** in Python, 
 ```bash
 git clone https://github.com/Ranim638515/Algorithme-de-recherche-gravitationnelle.git
 cd Algorithme-de-recherche-gravitationnelle
+ 
